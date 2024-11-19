@@ -1,0 +1,12 @@
+{
+  "project": "unified-ai-framework",
+  "team": "your-team",
+  "functions": {
+    "codegen": true,
+    "timeout": 300000,
+    "memory": 512
+  },
+  "deployment": {
+    "node": "18.x"
+  }
+}
